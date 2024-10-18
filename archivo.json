@@ -1,0 +1,2102 @@
+{
+    "status": true,
+    "timestamp": 1729276874696,
+    "sessionId": "a5225a99-77d6-4e91-abd3-26138cb4d316",
+    "data": {
+        "context": {
+            "status": "incomplete",
+            "sessionId": "ClQIARJQCk4KJGE1MjI1YTk5LTc3ZDYtNGU5MS1hYmQzLTI2MTM4Y2I0ZDMxNhACGiRkYWM4N2Y5Mi1kYmZhLTQxMmQtYTJkNS1hODMyZWExNWYzMDUSKHVzc180MWQyN2FmYi0yYmIyLTQ3MTktYjAzMS05NDUwZDdkMjk2YjI=",
+            "totalResults": 10
+        },
+        "itineraries": [
+            {
+                "id": "13870-2411030835--31915-0-15434-2411031005|15434-2411062220--31915-0-13870-2411062350",
+                "price": {
+                    "raw": 48.66,
+                    "formatted": "49 \u20ac",
+                    "pricingOptionId": "zGEk1mFULQqN"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030835--31915-0-15434-2411031005",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T08:35:00",
+                        "arrival": "2024-11-03T10:05:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030835-2411031005--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T08:35:00",
+                                "arrival": "2024-11-03T10:05:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "2053",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411062220--31915-0-13870-2411062350",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T22:20:00",
+                        "arrival": "2024-11-06T23:50:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411062220-2411062350--31915",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T22:20:00",
+                                "arrival": "2024-11-06T23:50:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "2062",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_cheapest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.999
+            },
+            {
+                "id": "13870-2411030835--31915-0-15434-2411031005|15434-2411061055--31915-0-13870-2411061225",
+                "price": {
+                    "raw": 63.38,
+                    "formatted": "64 \u20ac",
+                    "pricingOptionId": "bMEz6TPzo2fI"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030835--31915-0-15434-2411031005",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T08:35:00",
+                        "arrival": "2024-11-03T10:05:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030835-2411031005--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T08:35:00",
+                                "arrival": "2024-11-03T10:05:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "2053",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411061055--31915-0-13870-2411061225",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T10:55:00",
+                        "arrival": "2024-11-06T12:25:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -30543,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/4P.png",
+                                    "name": "Lauda Europe"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411061055-2411061225--31915",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T10:55:00",
+                                "arrival": "2024-11-06T12:25:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "2054",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -30543,
+                                    "name": "Lauda Europe",
+                                    "alternateId": "4P",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_cheapest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.84604
+            },
+            {
+                "id": "13870-2411031115--31915-0-15434-2411031245|15434-2411061055--31915-0-13870-2411061225",
+                "price": {
+                    "raw": 87.57,
+                    "formatted": "88 \u20ac",
+                    "pricingOptionId": "NmIr5nNpofIu"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411031115--31915-0-15434-2411031245",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T11:15:00",
+                        "arrival": "2024-11-03T12:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411031115-2411031245--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T11:15:00",
+                                "arrival": "2024-11-03T12:45:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "2061",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411061055--31915-0-13870-2411061225",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T10:55:00",
+                        "arrival": "2024-11-06T12:25:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -30543,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/4P.png",
+                                    "name": "Lauda Europe"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411061055-2411061225--31915",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T10:55:00",
+                                "arrival": "2024-11-06T12:25:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "2054",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -30543,
+                                    "name": "Lauda Europe",
+                                    "alternateId": "4P",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.765899
+            },
+            {
+                "id": "13870-2411030705--32221-0-15434-2411030830|15434-2411062220--31915-0-13870-2411062350",
+                "price": {
+                    "raw": 46.6,
+                    "formatted": "47 \u20ac",
+                    "pricingOptionId": "18-QidBaYc98"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030705--32221-0-15434-2411030830",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T07:05:00",
+                        "arrival": "2024-11-03T08:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030705-2411030830--32221",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T07:05:00",
+                                "arrival": "2024-11-03T08:30:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1651",
+                                "marketingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411062220--31915-0-13870-2411062350",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T22:20:00",
+                        "arrival": "2024-11-06T23:50:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411062220-2411062350--31915",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T22:20:00",
+                                "arrival": "2024-11-06T23:50:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "2062",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 14.564795
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "cheapest"
+                ],
+                "isMashUp": true,
+                "hasFlexibleOptions": false,
+                "score": 0.732625
+            },
+            {
+                "id": "13870-2411030705--32221-0-15434-2411030830|15434-2411061435--32221-0-13870-2411061600",
+                "price": {
+                    "raw": 91.66,
+                    "formatted": "92 \u20ac",
+                    "pricingOptionId": "A_ipgv7h822A"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030705--32221-0-15434-2411030830",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T07:05:00",
+                        "arrival": "2024-11-03T08:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030705-2411030830--32221",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T07:05:00",
+                                "arrival": "2024-11-03T08:30:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1651",
+                                "marketingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411061435--32221-0-13870-2411061600",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T14:35:00",
+                        "arrival": "2024-11-06T16:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411061435-2411061600--32221",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T14:35:00",
+                                "arrival": "2024-11-06T16:00:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1664",
+                                "marketingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.16587
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.685181
+            },
+            {
+                "id": "13870-2411030820--32680-0-15434-2411030940|15434-2411062110--32680-0-13870-2411062235",
+                "price": {
+                    "raw": 96.95,
+                    "formatted": "97 \u20ac",
+                    "pricingOptionId": "oMfC-h5xtxqU"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030820--32680-0-15434-2411030940",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 80,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T08:20:00",
+                        "arrival": "2024-11-03T09:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32680,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                    "name": "Air Europa"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030820-2411030940--32680",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T08:20:00",
+                                "arrival": "2024-11-03T09:40:00",
+                                "durationInMinutes": 80,
+                                "flightNumber": "6031",
+                                "marketingCarrier": {
+                                    "id": -32680,
+                                    "name": "Air Europa",
+                                    "alternateId": "UX",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32680,
+                                    "name": "Air Europa",
+                                    "alternateId": "UX",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411062110--32680-0-13870-2411062235",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T21:10:00",
+                        "arrival": "2024-11-06T22:35:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32680,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                    "name": "Air Europa"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411062110-2411062235--32680",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T21:10:00",
+                                "arrival": "2024-11-06T22:35:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "6096",
+                                "marketingCarrier": {
+                                    "id": -32680,
+                                    "name": "Air Europa",
+                                    "alternateId": "UX",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32680,
+                                    "name": "Air Europa",
+                                    "alternateId": "UX",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.662748
+            },
+            {
+                "id": "13870-2411030705--32221-0-15434-2411030830|15434-2411061745--32221-0-13870-2411061910",
+                "price": {
+                    "raw": 103.87,
+                    "formatted": "104 \u20ac",
+                    "pricingOptionId": "1dq6q7BDuycF"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030705--32221-0-15434-2411030830",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T07:05:00",
+                        "arrival": "2024-11-03T08:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030705-2411030830--32221",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T07:05:00",
+                                "arrival": "2024-11-03T08:30:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1651",
+                                "marketingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411061745--32221-0-13870-2411061910",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T17:45:00",
+                        "arrival": "2024-11-06T19:10:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411061745-2411061910--32221",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T17:45:00",
+                                "arrival": "2024-11-06T19:10:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1668",
+                                "marketingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.16587
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.638142
+            },
+            {
+                "id": "13870-2411030705--32221-0-15434-2411030830|15434-2411061935--32221-0-13870-2411062100",
+                "price": {
+                    "raw": 103.87,
+                    "formatted": "104 \u20ac",
+                    "pricingOptionId": "1P77BqJiGGTu"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030705--32221-0-15434-2411030830",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T07:05:00",
+                        "arrival": "2024-11-03T08:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030705-2411030830--32221",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T07:05:00",
+                                "arrival": "2024-11-03T08:30:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1651",
+                                "marketingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411061935--32221-0-13870-2411062100",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T19:35:00",
+                        "arrival": "2024-11-06T21:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411061935-2411062100--32221",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T19:35:00",
+                                "arrival": "2024-11-06T21:00:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1672",
+                                "marketingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.16587
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.634961
+            },
+            {
+                "id": "13870-2411030705--32222-0-15434-2411030830|15434-2411061745--32222-0-13870-2411061910",
+                "price": {
+                    "raw": 112.25,
+                    "formatted": "113 \u20ac",
+                    "pricingOptionId": "xJGnBxG3QQji"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030705--32222-0-15434-2411030830",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T07:05:00",
+                        "arrival": "2024-11-03T08:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030705-2411030830--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T07:05:00",
+                                "arrival": "2024-11-03T08:30:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1651",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411061745--32222-0-13870-2411061910",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T17:45:00",
+                        "arrival": "2024-11-06T19:10:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411061745-2411061910--32222",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T17:45:00",
+                                "arrival": "2024-11-06T19:10:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1668",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.16587
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.605967
+            },
+            {
+                "id": "13870-2411030705--32222-0-15434-2411030830|15434-2411061435--32222-0-13870-2411061600",
+                "price": {
+                    "raw": 112.25,
+                    "formatted": "113 \u20ac",
+                    "pricingOptionId": "WgfTbRO7dXO6"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411030705--32222-0-15434-2411030830",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-03T07:05:00",
+                        "arrival": "2024-11-03T08:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-15434-2411030705-2411030830--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-03T07:05:00",
+                                "arrival": "2024-11-03T08:30:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1651",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "15434-2411061435--32222-0-13870-2411061600",
+                        "origin": {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca",
+                            "displayCode": "PMI",
+                            "city": "Palma",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-06T14:35:00",
+                        "arrival": "2024-11-06T16:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "15434-13870-2411061435-2411061600--32222",
+                                "origin": {
+                                    "flightPlaceId": "PMI",
+                                    "displayCode": "PMI",
+                                    "parent": {
+                                        "flightPlaceId": "PALM",
+                                        "displayCode": "PMI",
+                                        "name": "Palma",
+                                        "type": "City"
+                                    },
+                                    "name": "Palma - Majorca",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-06T14:35:00",
+                                "arrival": "2024-11-06T16:00:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "1664",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.16587
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.604798
+            }
+        ],
+        "messages": [],
+        "filterStats": {
+            "duration": {
+                "min": 85,
+                "max": 90,
+                "multiCityMin": 165,
+                "multiCityMax": 180
+            },
+            "airports": [
+                {
+                    "city": "Madrid",
+                    "airports": [
+                        {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid"
+                        }
+                    ]
+                },
+                {
+                    "city": "Palma",
+                    "airports": [
+                        {
+                            "id": "PMI",
+                            "entityId": "95565111",
+                            "name": "Palma - Majorca"
+                        }
+                    ]
+                }
+            ],
+            "carriers": [
+                {
+                    "id": -32680,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                    "name": "Air Europa"
+                },
+                {
+                    "id": -32222,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                    "name": "Iberia"
+                },
+                {
+                    "id": -32221,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                    "name": "Iberia Express"
+                },
+                {
+                    "id": -31915,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                    "name": "Ryanair"
+                }
+            ],
+            "stopPrices": {
+                "direct": {
+                    "isPresent": true,
+                    "formattedPrice": "47 \u20ac"
+                },
+                "one": {
+                    "isPresent": false
+                },
+                "twoOrMore": {
+                    "isPresent": false
+                }
+            }
+        },
+        "flightsSessionId": "a5225a99-77d6-4e91-abd3-26138cb4d316",
+        "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg"
+    }
+}
