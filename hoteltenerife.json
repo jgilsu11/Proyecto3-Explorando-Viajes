@@ -3,7 +3,7 @@
     "total_pages": 4,
     "current_page": 1,
     "total_items_count": 107,
-    "items_count": 34,
+    "items_count": 33,
     "results": [
         {
             "id": 1555517,
@@ -39,8 +39,8 @@
                 "Room service"
             ],
             "providers": [
-                "Booking.com",
                 "Expedia.com",
+                "Booking.com",
                 "Hotels.com",
                 "Lol.travel"
             ]
@@ -82,7 +82,7 @@
                 "Expedia.com",
                 "Booking.com",
                 "AC Hotels",
-                "Vio.com"
+                "Hotels.com"
             ]
         },
         {
@@ -425,7 +425,7 @@
                 "Expedia.com",
                 "Booking.com",
                 "Hotels.com",
-                "Algotels"
+                "Vio.com"
             ]
         },
         {
@@ -577,39 +577,6 @@
                 "Expedia.com",
                 "Hotels.com",
                 "ZenHotels.com"
-            ]
-        },
-        {
-            "id": 2304272,
-            "name": "Hotel Adonis Capital",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187482-d2304272-Reviews-Hotel_Adonis_Capital-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html",
-            "reviews": 201,
-            "rating": 3.5,
-            "price_range_usd": {
-                "min": 62,
-                "max": 75
-            },
-            "phone": "+34 922 28 46 01",
-            "address": "Calle Cruz Verde 24 Esq. Pza. Candelaria, 38003 Santa Cruz de Tenerife, Tenerife Spain",
-            "detailed_address": {
-                "street": "Calle Cruz Verde 24, Esq. Pza. Candelaria",
-                "city": "Santa Cruz de Tenerife",
-                "postal_code": "38003",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 11,
-                "total": 20
-            },
-            "featured_image": null,
-            "latitude": 28.466976,
-            "longitude": -16.248934,
-            "amenities": [
-                "Free Wifi"
-            ],
-            "providers": [
-                "Booking.com"
             ]
         },
         {
@@ -787,37 +754,33 @@
             ]
         },
         {
-            "id": 23271293,
-            "name": "AC Hotel Tenerife",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187482-d23271293-Reviews-AC_Hotel_Tenerife-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html",
-            "reviews": 70,
+            "id": 2304272,
+            "name": "Hotel Adonis Capital",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187482-d2304272-Reviews-Hotel_Adonis_Capital-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html",
+            "reviews": 201,
             "rating": 3.5,
             "price_range_usd": {
-                "min": 117,
-                "max": 161
+                "min": 62,
+                "max": 75
             },
-            "phone": "+34 822 68 05 81",
-            "address": "Calle Candelaria 31, 38003 Santa Cruz de Tenerife, Tenerife Spain",
+            "phone": "+34 922 28 46 01",
+            "address": "Calle Cruz Verde 24 Esq. Pza. Candelaria, 38003 Santa Cruz de Tenerife, Tenerife Spain",
             "detailed_address": {
-                "street": "Calle Candelaria 31",
+                "street": "Calle Cruz Verde 24, Esq. Pza. Candelaria",
                 "city": "Santa Cruz de Tenerife",
                 "postal_code": "38003",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 10,
+                "current_rank": 11,
                 "total": 20
             },
             "featured_image": null,
-            "latitude": 28.466608,
-            "longitude": -16.248611,
+            "latitude": 28.466976,
+            "longitude": -16.248934,
             "amenities": [
-                "Free Wifi",
-                "Free parking",
-                "Breakfast included",
-                "Pool",
-                "Beachfront"
+                "Free Wifi"
             ],
             "providers": [
                 "Booking.com"
@@ -929,8 +892,8 @@
             "providers": [
                 "Booking.com",
                 "Priceline",
-                "StayForLong",
-                "eDreams"
+                "eDreams",
+                "Agoda.com"
             ]
         },
         {
@@ -1004,36 +967,37 @@
             ]
         },
         {
-            "id": 248461,
-            "name": "Hotel Pr\u00edncipe Paz",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187482-d248461-Reviews-Hotel_Principe_Paz-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html",
-            "reviews": 384,
-            "rating": 4,
+            "id": 23271293,
+            "name": "AC Hotel Tenerife",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187482-d23271293-Reviews-AC_Hotel_Tenerife-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html",
+            "reviews": 70,
+            "rating": 3.5,
             "price_range_usd": {
-                "min": 89,
-                "max": 124
+                "min": 117,
+                "max": 161
             },
-            "phone": "+34 922 24 99 55",
-            "address": "Calle de Valentin Sanz 33-35 Frente Plaza del Principe, 38002 Santa Cruz de Tenerife, Tenerife Spain",
+            "phone": "+34 822 68 05 81",
+            "address": "Calle Candelaria 31, 38003 Santa Cruz de Tenerife, Tenerife Spain",
             "detailed_address": {
-                "street": "Calle de Valentin Sanz 33-35, Frente Plaza del Principe",
+                "street": "Calle Candelaria 31",
                 "city": "Santa Cruz de Tenerife",
-                "postal_code": "38002",
+                "postal_code": "38003",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 7,
+                "current_rank": 10,
                 "total": 20
             },
             "featured_image": null,
-            "latitude": 28.468706,
-            "longitude": -16.250793,
+            "latitude": 28.466608,
+            "longitude": -16.248611,
             "amenities": [
                 "Free Wifi",
-                "Restaurant",
-                "Room service",
-                "Bar/Lounge"
+                "Free parking",
+                "Breakfast included",
+                "Pool",
+                "Beachfront"
             ],
             "providers": [
                 "Booking.com"
@@ -1102,7 +1066,7 @@
                 "Expedia.com",
                 "Hotels.com",
                 "ZenHotels.com",
-                "Vio.com"
+                "Booking.com"
             ]
         },
         {
@@ -1203,40 +1167,37 @@
             ]
         },
         {
-            "id": 232769,
-            "name": "Hotel Escuela Santa Cruz",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187482-d232769-Reviews-Hotel_Escuela_Santa_Cruz-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html",
-            "reviews": 307,
-            "rating": 4,
+            "id": 1185896,
+            "name": "Hotel Horizonte",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187482-d1185896-Reviews-Hotel_Horizonte-Santa_Cruz_de_Tenerife_Tenerife_Canary_Islands.html",
+            "reviews": 244,
+            "rating": 3.5,
             "price_range_usd": {
-                "min": 89,
-                "max": 111
+                "min": 54,
+                "max": 68
             },
-            "phone": "+34 922 84 75 00",
-            "address": "Av. de San Sebasti\u00e1n, 152, 38005 Santa Cruz de Tenerife, Tenerife Spain",
+            "phone": "+34 922 27 19 36",
+            "address": "Calle Santa Rosa de Lima 11, 38002 Santa Cruz de Tenerife, Tenerife Spain",
             "detailed_address": {
-                "street": "Av. de San Sebasti\u00e1n, 152",
+                "street": "Calle Santa Rosa de Lima 11",
                 "city": "Santa Cruz de Tenerife",
-                "postal_code": "38005",
+                "postal_code": "38002",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 8,
+                "current_rank": 9,
                 "total": 20
             },
             "featured_image": null,
-            "latitude": 28.463984,
-            "longitude": -16.259615,
+            "latitude": 28.470066,
+            "longitude": -16.24965,
             "amenities": [
                 "Free Wifi",
-                "Pool",
-                "Outdoor pool",
-                "Restaurant",
-                "Room service"
+                "Pets Allowed"
             ],
             "providers": [
-                "Booking.com"
+                "Algotels"
             ]
         }
     ]
