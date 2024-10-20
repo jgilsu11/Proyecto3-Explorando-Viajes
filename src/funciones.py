@@ -44,6 +44,10 @@ def info_vuelos(request_jeison):
         precio= res["itineraries"][vuelo]["price"]["raw"]
 
         for i in range(0,2):
+                
+                id_vuelo= res["itineraries"][vuelo]["legs"][i]["id"]
+                
+
                 id_origen= res["itineraries"][vuelo]["legs"][i]["origin"]["id"]
                 origen= res["itineraries"][vuelo]["legs"][i]["origin"]["city"]
 
@@ -58,7 +62,8 @@ def info_vuelos(request_jeison):
 
                 aerolinea= res["itineraries"][vuelo]["legs"][i]["carriers"]["marketing"][0]["name"]
 
-                dicc= {"id_origen":id_origen,
+                dicc= {"id_vuelo":id_vuelo,
+                "id_origen":id_origen,
                 "ciudad_origen":origen,
                 "id_destino": id_destino,
                 "ciudad_destino":destino,
@@ -137,7 +142,7 @@ def info_hoteles(request_jeison):
             precio_medio = (precio_rango_max + precio_rango_min) / 2
         else:
             precio_medio = None
-            
+
         ciudad=respond["results"][i]["detailed_address"]["city"]
         servicios=respond["results"][i]["amenities"]
         link=respond["results"][i]["link"]
