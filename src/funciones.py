@@ -132,7 +132,12 @@ def info_hoteles(request_jeison):
         rating_hotel=respond["results"][i]["rating"]
         precio_rango_min=respond["results"][i]["price_range_usd"]["min"]
         precio_rango_max=respond["results"][i]["price_range_usd"]["max"]
-        precio_medio= (precio_rango_max + precio_rango_min)/2
+
+        if precio_rango_min is not None and precio_rango_max is not None:
+            precio_medio = (precio_rango_max + precio_rango_min) / 2
+        else:
+            precio_medio = None
+            
         ciudad=respond["results"][i]["detailed_address"]["city"]
         servicios=respond["results"][i]["amenities"]
         link=respond["results"][i]["link"]
