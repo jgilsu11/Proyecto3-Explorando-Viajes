@@ -1,6 +1,6 @@
 
 
-![Mallorca vs Tenerife](imagenes/A_comparison_of_Palma_de_Mallorca_and_Santa_Cruz_d.png)
+![Mallorca vs Tenerife](imagen.webp)
 
 
 **Elección de mejor destino para vacaciones en solitario**
