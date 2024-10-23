@@ -12,7 +12,6 @@ import os
 
 
 
-
 def info_vuelos(request_jeison):
     """
     Extrae información relevante sobre vuelos a partir de una respuesta JSON de un servicio de itinerarios de vuelos.
