@@ -34,11 +34,12 @@ Por todo lo anterior, el usuario tiene acceso a:
 ***Requisitos e Instalación🛠️:***
 
 Este proyecto usa Python 3.11.9 y bibliotecas que se necesitarán importar al principio del código como:
-datetime, 
-    - [pandas](https://pandas.pydata.org/docs/) para manipulación de datos 🧹
-    - [numpy](https://numpy.org/doc/2.1/) para cálculos numéricos 🔢
-    - [matplotlib](https://matplotlib.org/stable/index.html) y [seaborn](https://seaborn.pydata.org/) para visualización de datos 📊
-    - [requests](https://requests.readthedocs.io/en/latest/) y [beautifulsoup4](https://beautiful-soup-4.readthedocs.io/en/latest/)
+    - [pandas](https://pandas.pydata.org/docs/) 
+    - [numpy](https://numpy.org/doc/2.1/) 
+    - [matplotlib](https://matplotlib.org/stable/index.html)  
+    - [seaborn](https://seaborn.pydata.org/) 
+    - [requests](https://requests.readthedocs.io/en/latest/) 
+    - [beautifulsoup4](https://beautiful-soup-4.readthedocs.io/en/latest/)
 
 ***Aportación al Usuario🤝:***
 
