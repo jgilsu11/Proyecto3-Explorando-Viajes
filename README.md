@@ -9,7 +9,7 @@
 ***Descripción:***
 El proyecto 3 consiste en la extracción, exploración, limpieza, y análisis de los datos de vuelos, alojamientos y actividades haciendo uso de archivos.py y Jupyter notebook.
 
-Las técnicas usadas durante el proyecto son en su mayoría aquellas enseñadas durante la tercera semana de formación (Uso de APIs, web scrapping,creación de gráfica y formateos entre otros).
+Las técnicas usadas durante el proyecto son en su mayoría aquellas enseñadas durante la tercera semana de formación (Uso de APIs, web scrapping,creación de gráficas y formateos entre otros).
 
 Adicionalmente, se usaron recursos obtenidos mediante research en documentación especializada, vídeos de YouTube e IA como motor de búsqueda y apoyo al aprendizaje.
 
